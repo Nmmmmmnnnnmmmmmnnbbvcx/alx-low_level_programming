@@ -1,1 +1,1 @@
-print 5 numbers
+one word
