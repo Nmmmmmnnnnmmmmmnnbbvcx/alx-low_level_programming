@@ -1,1 +1,1 @@
-mannu 6720
+print 5 numbers
